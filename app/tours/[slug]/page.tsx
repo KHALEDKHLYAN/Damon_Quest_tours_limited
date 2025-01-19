@@ -109,7 +109,7 @@ const tourDetails = {
   },
   "zanzibar-spice-tour": {
     title: "Zanzibar Spice Tour",
-    image: "/images/tours/zanzibar/dune-zanzibar.jpeg",
+    image: "/images/tours/zanzibar/Zanzibar,-Tanzania.jpeg",
     description: "Explore the aromatic spice plantations of Zanzibar",
     fullDescription: `
       Embark on a sensory journey through Zanzibar's famous spice plantations. This half-day tour offers a fascinating glimpse into the island's rich history and its role in the spice trade that has shaped cultures and cuisines around the world.
