@@ -1,0 +1,48 @@
+public/
+  images/
+    hero/
+      balloon-safari.jpg      # Main hero image
+      hero-mobile.jpg        # Mobile-optimized version
+    tours/
+      nairobi/
+        gallery/            # Tour-specific gallery images
+        featured.jpg       # Main tour image
+      mombasa/
+        gallery/
+        featured.jpg
+      zanzibar/
+        gallery/
+        featured.jpg
+    destinations/
+      kenya/
+        featured.jpg
+        gallery/
+      uganda/
+        featured.jpg
+        gallery/
+      tanzania/
+        featured.jpg
+        gallery/
+      dubai/
+        featured.jpg
+        gallery/
+    testimonials/
+      client1.jpg
+      client2.jpg
+      client3.jpg
+    about/
+      team/               # Team member photos
+      office.jpg         # Office photos
+      history.jpg        # Historical photos
+    gallery/             # General website gallery
+      activities/
+      landscapes/
+      wildlife/
+    logos/               # Company logos and brand assets
+      main-logo.png
+      logo-dark.png
+      logo-light.png
+    banners/             # Section banners
+      special-offers.jpg
+      newsletter.jpg
+
