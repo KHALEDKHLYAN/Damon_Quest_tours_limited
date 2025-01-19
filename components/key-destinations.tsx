@@ -20,7 +20,7 @@ const destinations = [
   {
     name: "Zanzibar",
     description: "Pristine beaches and rich history",
-    image: "/images/destinations/tanzania/zanzibar.jpeg"
+    image: "/images/tours/zanzibar/Zanzibar,-Tanzania.jpeg"
   }
 ]
 
