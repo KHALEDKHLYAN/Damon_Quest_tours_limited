@@ -89,15 +89,15 @@ export default function AboutPage() {
               <div className="space-y-3">
                 <div className="flex items-center space-x-3 text-gray-600 dark:text-gray-300">
                   <MapPin className="h-5 w-5 text-blue-600 dark:text-blue-400" />
-                  <span>123 Nyali Road, Mombasa, Kenya</span>
+                  <span>Mwembe-Tayari Posta, Mombasa, Kenya</span>
                 </div>
                 <div className="flex items-center space-x-3 text-gray-600 dark:text-gray-300">
                   <Phone className="h-5 w-5 text-blue-600 dark:text-blue-400" />
-                  <span>+254 123 456 789</span>
+                  <span>+254718780619, +96895589609</span>
                 </div>
                 <div className="flex items-center space-x-3 text-gray-600 dark:text-gray-300">
                   <Mail className="h-5 w-5 text-blue-600 dark:text-blue-400" />
-                  <span>info@damonquesttours.com</span>
+                  <span>damonquesttraveltourlimited@gmail.com</span>
                 </div>
               </div>
             </div>

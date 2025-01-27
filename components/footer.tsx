@@ -20,19 +20,19 @@ export function Footer() {
             <ul className="space-y-2">
               <li className="flex items-center">
                 <Mail className="h-5 w-5 mr-2" />
-                <a href="mailto:info@damonquest.com" className="hover:text-secondary">
-                  info@damonquest.com
+                <a href="damonquesttraveltourlimited@gmail.com" className="hover:text-secondary">
+                damonquesttraveltourlimited@gmail.com
                 </a>
               </li>
               <li className="flex items-center">
                 <Phone className="h-5 w-5 mr-2" />
-                <a href="tel:+1234567890" className="hover:text-secondary">
-                  +1 (234) 567-890
+                <a href="tel:+254 718 780619" className="hover:text-secondary">
+                +254718780619, +968 9558 9609,
                 </a>
               </li>
               <li className="flex items-center">
                 <MapPin className="h-5 w-5 mr-2" />
-                <span>123 Adventure St, Travelville, TX 12345</span>
+                <span>Mwembe-Tayari Posta, Mombasa, Kenya</span>
               </li>
             </ul>
           </div>
