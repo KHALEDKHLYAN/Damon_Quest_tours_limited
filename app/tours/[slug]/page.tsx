@@ -161,7 +161,7 @@ export default function TourPage({ params }: { params: { slug: string } }) {
     notFound()
   }
 
-  const whatsappNumber = process.env.WHATSAPP_PHONE_NUMBER || "+254701506538"
+  const whatsappNumber = process.env.WHATSAPP_PHONE_NUMBER || "+254718780619"
   const flightInquiryMessage = encodeURIComponent(`Hello, I'm interested in booking a flight for the ${tour.title} tour. Can you provide more information?`)
   const hotelInquiryMessage = encodeURIComponent(`Hello, I'm looking for hotel recommendations for the ${tour.title} tour. Can you assist me?`)
 
