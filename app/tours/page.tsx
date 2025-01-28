@@ -20,12 +20,12 @@ const tourPackages = [
     price: "From $100"
   },
   {
-    slug: "lake-nakuru-flamingo",
-    title: "Lake Nakuru Flamingo Excursion",
-    description: "Witness the stunning pink flamingos at Lake Nakuru",
-    image: "/images/tours/Lake-Nakurusafari.jpeg",
+    slug: "kruger-safari-adventure",
+    title: "Kruger National Park Safari Adventure",
+    description: "Experience the thrill of spotting the Big Five in Kruger National Park",
+    image: "/images/destinations/dubai/Kruger-National-Park-South-Africa.jpeg",
     duration: "1 day",
-    price: "From $180"
+    price: "From $200"
   },
   {
     slug: "kampala-city-tour",

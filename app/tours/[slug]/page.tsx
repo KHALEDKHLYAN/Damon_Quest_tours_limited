@@ -65,26 +65,26 @@ const tourDetails = {
     duration: "1 day",
     price: "From $100",
   },
-  "lake-nakuru-flamingo": {
-    title: "Lake Nakuru Flamingo Excursion",
-    image: "/images/tours/Lake_Nakuru_Kenya.jpeg",
-    description: "Witness the stunning pink flamingos at Lake Nakuru",
+  "kruger-safari-adventure": {
+    title: "Kruger National Park Safari Adventure",
+    image: "/images/destinations/dubai/south-africa.jpeg",
+    description: "Experience the thrill of spotting the Big Five in Kruger National Park",
     fullDescription: `
-      Embark on a breathtaking journey to Lake Nakuru, famous for its vast flocks of flamingos that paint the landscape pink. This day trip offers a unique opportunity to witness one of nature's most spectacular sights and explore the diverse wildlife of Lake Nakuru National Park.
+      Embark on an unforgettable safari adventure in Kruger National Park, one of Africa's largest game reserves and a haven for wildlife enthusiasts. This day trip offers the chance to encounter the iconic Big Five—lion, leopard, rhinoceros, elephant, and buffalo—in their natural habitat.
 
-      Lake Nakuru is a shallow alkaline lake in Kenya's Rift Valley, known for attracting millions of flamingos to its algae-rich waters. Besides the flamingos, the park is home to a variety of wildlife including rhinos, lions, leopards, and over 450 species of birds.
+      Kruger National Park spans nearly 2 million hectares and is renowned for its incredible biodiversity. Alongside the Big Five, the park is home to a wide variety of mammals, birds, and reptiles, making it a paradise for nature lovers and photographers.
 
-      Your excursion includes:
-      - Round-trip transportation from Nairobi
-      - Entrance fees to Lake Nakuru National Park
-      - Guided game drive in a 4x4 vehicle
-      - Picnic lunch by the lake
-      - Visit to Baboon Cliff for panoramic views
+      Your safari adventure includes:
+      - Round-trip transportation from Johannesburg or Pretoria
+      - Entrance fees to Kruger National Park
+      - Guided game drive in an open 4x4 safari vehicle
+      - Breakfast and lunch at a scenic rest camp
+      - Knowledgeable guide to share insights about the wildlife and ecosystem
 
-      Total spending: The tour price starts from $180 per person, which covers transportation, park fees, guide, and lunch. Additional costs may include optional activities, souvenirs, and gratuities.
+      Total spending: The tour price starts from $200 per person, which covers transportation, park fees, guide, and meals. Additional costs may include optional activities, souvenirs, and gratuities.
     `,
     duration: "1 day",
-    price: "From $180",
+    price: "From $200",
   },
   "kampala-city-tour": {
     title: "Kampala City Tour",
